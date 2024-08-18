@@ -1,0 +1,12 @@
+.btn {
+    font-size: 28px;
+    font-family: "Helvetica","Times New Roman",sans-serif;
+}
+.pm {
+    background-color: black;
+    color: white;
+    font-weight: bold;
+}
+.npm {
+    background-color: yellow;
+}
